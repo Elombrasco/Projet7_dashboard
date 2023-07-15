@@ -1,6 +1,5 @@
 dash
 pandas
 dash_bootstrap_components
-pickle
 lightgbm
 plotly.express
