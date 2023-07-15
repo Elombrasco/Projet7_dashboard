@@ -3,3 +3,4 @@ pandas
 dash_bootstrap_components
 lightgbm
 plotly.express
+gunicorn
